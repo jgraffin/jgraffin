@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Graffin</h1>
-<h3 align="center">I'm a frontend developer from Brazil. I work with ReactJS, Angular+4, WordPress, HTML/CSS, UI interfaces</h3>
+<h3 align="center">I'm a frontend developer from Brazil. I work with ReactJS, NextJS, HTML/CSS, UI interfaces</h3>
 
 - 🔭 I’m currently working on [sabiondigital](https://github.com/sabiondigital)
 
