@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julio Graffin</h1>
 <h3 align="center">I'm a frontend developer from Brazil. I work with ReactJS, NextJS, HTML/CSS, UI interfaces</h3>
 
-- 🔭 I’m currently working on [sabiondigital](https://github.com/sabiondigital)
+- 🔭 I’m currently working on [Objective Solutions](https://github.com/objective-solutions)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Liferay DXP**, working as outsourcing on [Liferay](https://www.liferay.com). An amazing web development platform, built in Java and running Javascript and its frameworks like Angular, ReactJS and VueJS.
 
 - 📫 How to reach me **juliograffin@gmail.com**
 
