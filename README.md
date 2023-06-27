@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juliograffin/](https://www.linkedin.com/in/juliograffin)
 
-- My website is [jgraffin](https://juliograffin-pink.vercel.app)
+- My [website](https://juliograffin-pink.vercel.app)
 
   
 
