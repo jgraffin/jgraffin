@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Julio Graffin</h1>
-<h3 align="center">I'm a frontend developer from Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, UI interfaces</h3>
+<h3 align="left">I'm a frontend developer from Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, UI interfaces</h3>
 
 - I already worked on [Sabion Digital](https://sabion.com.br/) and [Bradesco Seguros](https://sabion.com.br/) as outsourcing.
 
 - 📫 How to reach me **juliograffin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/juliograffin/](https://www.linkedin.com/in/juliograffin/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/juliograffin/](https://www.linkedin.com/in/juliograffin)
+
+- My website is [jgraffin](https://juliograffin-pink.vercel.app)
+
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
