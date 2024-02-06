@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julio Graffin</h1>
-<h3 align="left">I'm a frontend developer from Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, UI interfaces</h3>
+<h3 align="left">I'm a front-end developer in Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, and UI interfaces</h3>
 
-- I already worked on [Sabion Digital](https://sabion.com.br/) and [Bradesco Seguros](https://sabion.com.br/) as outsourcing.
+- I already worked as an outsourcing for big companies like [Bradesco Seguros](https://sabion.com.br/) and [Bank of America](https://www.bankofamerica.com/).
+- Currently, I´m acting as an Analyst front-end senior at [Stefanini Brazil](https://stefanini.com/pt-br/).
 
 - 📫 How to reach me **juliograffin@gmail.com**
 
