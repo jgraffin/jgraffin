@@ -2,7 +2,7 @@
 <h3 align="left">I'm a front-end developer in Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, and UI interfaces</h3>
 
 - I already worked as an outsourcing for big companies like [Bradesco Seguros](https://sabion.com.br/) and [Bank of America](https://www.bankofamerica.com/).
-- Currently, I'm acting as an Analyst front-end senior at [Stefanini Brazil](https://stefanini.com/pt-br/).
+- Currently, I'm acting as an Analyst Front-end Senior at [Stefanini Brazil](https://stefanini.com/pt-br/).
 
 - 📫 How to reach me **juliograffin@gmail.com**
 
