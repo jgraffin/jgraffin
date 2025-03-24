@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julio Graffin</h1>
+<h1 align="center">Hi 👋, I'm Julio Cezar Ferreira</h1>
 <h3 align="left">I'm a front-end developer in Brazil. I work with ReactJS, NextJS, Angular, Ionic, HTML/CSS, and UI interfaces</h3>
 
 - I already worked as an outsourcing for big companies like [Bradesco Seguros](https://sabion.com.br/) and [Bank of America](https://www.bankofamerica.com/).
